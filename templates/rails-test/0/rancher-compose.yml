@@ -1,7 +1,6 @@
 .catalog:
   name: "Rancher-Rails-Test"
-  version: "v0.1"
+  version: "0.2"
   description: "Rancher rails test"
-  uuid: rancher-rails-0
-  minimum_rancher_version: v0.51.0
 rails_test:
+  scale: 1
