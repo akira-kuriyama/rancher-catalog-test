@@ -2,3 +2,4 @@ rails-test:
   image: sheepland/rails-test:1.2
   ports:
     - "3000:3000"
+  command: /bin/bash -c "rm /var/webapp/tmp/pids/server.pid; cd /var/webapp; ./bin/rails s"
