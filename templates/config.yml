@@ -1,0 +1,8 @@
+name: Rails-Test
+description: |
+  Hoge Description 
+version: 1.0 
+category: web_app
+maintainer: akira
+license: MIT
+projectURL: http://google.com
