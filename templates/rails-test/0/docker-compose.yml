@@ -1,4 +1,4 @@
-rails_test:
+rails-test:
   image: sheepland/rails-test:1.2
   ports:
     - "3000:3000"

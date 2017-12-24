@@ -1,6 +1,6 @@
 .catalog:
-  name: "Rancher-Rails-Test"
-  version: "0.2"
+  name: "RailsTest"
+  version: "0.3"
   description: "Rancher rails test"
-rails_test:
+rails-test:
   scale: 1
